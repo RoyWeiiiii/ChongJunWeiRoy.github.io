@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chong Jun Wei Roy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Roy Chong
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jun Wei Roy
+last_name: Chong
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate in University of Nottingham Malaysia
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,41 +48,47 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Microalgae Biotechnology & Bioprocessing
+  - Computation Biology
+  - Digitalisation of Microalgae discovery
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Chemical & Environmental Engineering
+    institution: University of Nottingham Malaysia
+    date_start: 2022-02-07
+    date_end: 2025-02-07
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Development of systematic algae strain and biomass detection method and database with automation engineering_. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Chemical Engineering
+    institution: University of Nottingham Malaysia
+    date_start: 2020-09-23
+    date_end: 2022-02-27
     summary: |
-      GPA: 3.8/4.0
+      Qualification: with Distinction (1st Class Honours)
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Process synthesis & design (Phthalic Anhydride production & water recycling)
+      - Power generation & Carbon capture (review on CO2 ocean sequestration)
+      - Food processing (review on Impact of Covid-19 Towards Food Aspect in Malaysia)
+      - Industrial dehydration (Analytical modelling on moisture content of Salak fruit)
+      - Advance computational methods (Dynamic simulation, PID controller, optimisation of 2   stage compression system, and thermodynamic behaviour of refrigerant system)
+      - Adv biochemical engineering (Downstream processing)
+      - Water treatment engineering (Hard water treatment using lime soda/ ion exchange)
+  - area: BEng Chemical Engineering
+    institution: Swansea University (Bay Campus, UK)
+    date_start: 2018-09-24
+    date_end: 2020-07-20
     summary: |
-      GPA: 3.4/4.0
+      Qualification: 2nd Class Honours (Division One)
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Highlighted Courses included:
+      - Separation Processes, Biochemical, Reactor Design, Fluid flow, Process Modelling, Thermodynamics of Process Design
+      - Process Design Simulations (Unisim and Aspen Hysys)
+      - Pilot plant operation A and B (Hands on experience of pilot scale equipment relating to various chemical processes)
+      - Final year design project on production of 100,000 tons of polyvinyl chloride (PVC)
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
